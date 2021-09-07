@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-
 function App(props) {
   return (
     <div className="todoapp stack-large">
@@ -96,5 +94,4 @@ function App(props) {
     </div>
   );
 }
-
 export default App;
